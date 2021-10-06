@@ -15,5 +15,8 @@
     "url": "git+https://github.com/EraldoCarlosfh/api-numeros.git"
   },
   "author": "Eraldo Carlos <eraldo1904@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
