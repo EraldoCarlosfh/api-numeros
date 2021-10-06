@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "Projeto ApiRest Numeros",
   "main": "dist/index.js",
-  "scripts": {
-    "dev": "yarn build && concurrently \"yarn watch-ts\" \"yarn watch-node\"",
+  "scripts": {    
     "build": "rm -rf dist && yarn install && tsc",
     "start": "node dist/index.js",
-    "lint": "tslint -c tslint.json -p tsconfig.json",    
+    "lint": "tsconfig.json",    
     "watch-ts": "tsc -w"
   },
   "keywords": [
