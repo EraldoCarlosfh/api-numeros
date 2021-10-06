@@ -1,0 +1,19 @@
+{
+  "name": "api-numeros",
+  "version": "1.0.0",
+  "description": "Projeto ApiRest Numeros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "numeros"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EraldoCarlosfh/api-numeros.git"
+  },
+  "author": "Eraldo Carlos <eraldo1904@gmail.com>",
+  "license": "ISC"
+}
